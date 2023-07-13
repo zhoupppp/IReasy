@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="35px" height="35px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip14">
+      <path d="M 1514.5 50  C 1504.7875 50  1497 42.2125  1497 32.5  L 1497 32.5  C 1497 22.7875  1504.7875 15  1514.5 15  L 1514.5 15  C 1524.2125 15  1532 22.7875  1532 32.5  L 1532 32.5  C 1532 42.2125  1524.2125 50  1514.5 50  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g transform="matrix(1 0 0 1 -1497 -15 )">
+    <image preserveAspectRatio="none" style="overflow:visible" width="35" height="35" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAARNSURBVFhHzVj5T1RXGPVPq3WpGlurSV2iifaHNnFJ2vibTU1YBDei1hEjVWPRiCaACiitEVIVF1BEoraiRolLI8yALMMMIgyn37mXCzNvvvfmDcbEk5xAeOd797x777foHHxGyMvMxEQKvf3DaG6P4vDFfmyuiGNe0SS+LJzEJvm9vL4PTfIs2h832nwRysz7sQ9obIth2e5xs/AXBQjk3CLgm53juNQaM7FhEWiGX9f2TwyLSlLqomG4sDiFzid9oXbK1wyDS86+UxeYDYvODOQ0pJqJJ0axIZJQX/ox/D6SNO/2Q5YZus9lZG4h8PUuoLAaqG0FGjuA368A6w8BC4r1GMf1B5O+O5RhJszRrPkNaH4IDCamgtIwPgF0/QcU1+ixjgWn9SPLMNP6KKYGO64VI2/6rZYL9wwCT2Xxh6+AlzFgRE5gchJICY81B+9Sh1xqL6bNMAWDsmbV/kwju84DK8ogqW6fLyoBfqwA7r2wGn54WX32exy/2pHKSvtpM423g3fldIv96ndx4Icjusbx70f2ndQu26NryIZbsp1pMGZ4fixoWgC5uBQYHTN6HG3SNen8bp/dGaLqhq4hl5ROZNwdYybaFw+srAWSNQTvwko5Lk3j5bk2G/O8x//u8Ih7YsNWKDBmmu5GVbHjqetGi7cD+nONP/8xE/PtXl1DXm6LWqHAmClv6FOFjlVyX4hXcsTac42bj9mYHjGzPMBMpG4mq4wZdl9N6LjvotGaLGLWaBovy/+yMfwA3jlNQ/5ycsgKBcYMxwBN6Lj6gL0vxI5aXZNOGo5OrcECqWkceVcdjJkwY0HLY5vaXW+ApdIKNI0jWwMxNm5rj6ZxzDKz8UjwMZEbjwKJ99ZQt9y5dQezNfNljjl5zZYB6mpuZ2u83FbpyaZDMqFpQi95d+JJE4dh+Vl3VyrxBRkPpBdVyG6wL9EEeV8q8YqAi+sYqZsq6wJj5sqdXlWosfKqiZuGW5x0aGiXXcrRvR2zUrtXCg9HRU3s+OsZ4N/XmYsm5djYr569BdqfA2dvAj+dmOlXuagWPZZkzqxawDwx6eoMwUv54CWwtTJbq5HxfhV4sdYOiEtKo6Tz81LWP0h94Y7cemIvslfnR8Yz5rFkoJZV9TeVRkmwnXN4ThezKRIpMZ/PPXDkjsi/Wgx4lOklgWv5jhBE59OZrFopnXdIpjnuSLWk6MI8jThuOS7vkcxj0ayREdX9vaMrYLgieH6FVQPmnO/JhSS6e6XRBcwkYegykB/GWWj7qcGMu+KQYYagqLQ6OZ012yWLtAXyIY+XPYpo7gw5kDskkqMYGUmaWUR7+WwY+VNmZHkn3+0H1QxB9+daBtQXz4ZltfrRpMPXDMFgTvEcnrUFwpBZw8uaywgRaMaBKcjhmTNrmOpKDQsa64g3fYMQyowDv47lm/2EE9q2yiFZ2P6XCLsvmx6fURNmJ7zIy8ynxmdkBvgf89HeBMRXeEEAAAAASUVORK5CYII=" x="1497px" y="15px" mask="url(#clip14)" />
+  </g>
+</svg>
